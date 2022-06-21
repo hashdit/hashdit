@@ -1,0 +1,22 @@
+{
+  "unversionedId": "diting-api/data",
+  "id": "diting-api/data",
+  "title": "Data",
+  "description": "Name | Nullable | Description | Type | Example",
+  "source": "@site/docs/diting-api/data.md",
+  "sourceDirName": "diting-api",
+  "slug": "/diting-api/data",
+  "permalink": "/docs/diting-api/data",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Outputs",
+    "permalink": "/docs/diting-api/api-outputs"
+  }
+}
