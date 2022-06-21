@@ -1,0 +1,16 @@
+{
+  "title": "Diting API",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/diting-api",
+  "permalink": "/docs/category/diting-api",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Access",
+      "permalink": "/docs/diting-api/api-access"
+    }
+  }
+}
