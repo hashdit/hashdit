@@ -1,0 +1,63 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "diting-api/api-access",
+              "path": "/docs/diting-api/api-access",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diting-api/api-inputs",
+              "path": "/docs/diting-api/api-inputs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diting-api/api-outputs",
+              "path": "/docs/diting-api/api-outputs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diting-api/data",
+              "path": "/docs/diting-api/data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diting-api/parameters",
+              "path": "/docs/diting-api/parameters",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/diting-api",
+              "path": "/docs/category/diting-api",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

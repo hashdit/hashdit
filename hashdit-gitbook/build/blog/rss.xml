@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>HashDit Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>HashDit Blog</description>
+        <lastBuildDate>Tue, 14 Jun 2022 22:01:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Coming Soon ...]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/more</link>
+            <guid>more</guid>
+            <pubDate>Tue, 14 Jun 2022 22:01:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

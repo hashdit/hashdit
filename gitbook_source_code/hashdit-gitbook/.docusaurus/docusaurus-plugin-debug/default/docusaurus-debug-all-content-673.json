@@ -1,0 +1,285 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/barryma/work/hashdit-docs-main/sidebars.js",
+          "contentPath": "/Users/barryma/work/hashdit-docs-main/docs",
+          "contentPathLocalized": "/Users/barryma/work/hashdit-docs-main/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "diting-api/api-access",
+              "id": "diting-api/api-access",
+              "title": "Access",
+              "description": "Please apply for access to our API through support@hashdit.io.",
+              "source": "@site/docs/diting-api/api-access.md",
+              "sourceDirName": "diting-api",
+              "slug": "/diting-api/api-access",
+              "permalink": "/docs/diting-api/api-access",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Diting API",
+                "permalink": "/docs/category/diting-api"
+              },
+              "next": {
+                "title": "Inputs",
+                "permalink": "/docs/diting-api/api-inputs"
+              }
+            },
+            {
+              "unversionedId": "diting-api/api-inputs",
+              "id": "diting-api/api-inputs",
+              "title": "Inputs",
+              "description": "Name | Required | Description | Type | Example",
+              "source": "@site/docs/diting-api/api-inputs.md",
+              "sourceDirName": "diting-api",
+              "slug": "/diting-api/api-inputs",
+              "permalink": "/docs/diting-api/api-inputs",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Access",
+                "permalink": "/docs/diting-api/api-access"
+              },
+              "next": {
+                "title": "Parameters",
+                "permalink": "/docs/diting-api/parameters"
+              }
+            },
+            {
+              "unversionedId": "diting-api/api-outputs",
+              "id": "diting-api/api-outputs",
+              "title": "Outputs",
+              "description": "Name | Nullable | Description | Type | Example",
+              "source": "@site/docs/diting-api/api-outputs.md",
+              "sourceDirName": "diting-api",
+              "slug": "/diting-api/api-outputs",
+              "permalink": "/docs/diting-api/api-outputs",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Parameters",
+                "permalink": "/docs/diting-api/parameters"
+              },
+              "next": {
+                "title": "Data",
+                "permalink": "/docs/diting-api/data"
+              }
+            },
+            {
+              "unversionedId": "diting-api/data",
+              "id": "diting-api/data",
+              "title": "Data",
+              "description": "Name | Nullable | Description | Type | Example",
+              "source": "@site/docs/diting-api/data.md",
+              "sourceDirName": "diting-api",
+              "slug": "/diting-api/data",
+              "permalink": "/docs/diting-api/data",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Outputs",
+                "permalink": "/docs/diting-api/api-outputs"
+              }
+            },
+            {
+              "unversionedId": "diting-api/parameters",
+              "id": "diting-api/parameters",
+              "title": "Parameters",
+              "description": "Name | Required | Description | Type | Example",
+              "source": "@site/docs/diting-api/parameters.md",
+              "sourceDirName": "diting-api",
+              "slug": "/diting-api/parameters",
+              "permalink": "/docs/diting-api/parameters",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Inputs",
+                "permalink": "/docs/diting-api/api-inputs"
+              },
+              "next": {
+                "title": "Outputs",
+                "permalink": "/docs/diting-api/api-outputs"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "Introduction",
+              "description": "Hashdit’s core mission is to provide the essential threat intelligence for the everyday Defi investors to make informed decisions.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Diting API",
+                "permalink": "/docs/category/diting-api"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Diting API",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "diting-api/api-access"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "diting-api/api-inputs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "diting-api/parameters"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "diting-api/api-outputs"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "diting-api/data"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/diting-api",
+                  "permalink": "/docs/category/diting-api"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "more",
+          "metadata": {
+            "permalink": "/blog/more",
+            "source": "@site/blog/index.md",
+            "title": "Coming Soon ...",
+            "description": "",
+            "date": "2022-06-14T22:01:08.000Z",
+            "formattedDate": "June 14, 2022",
+            "tags": [],
+            "readingTime": 0,
+            "truncated": false,
+            "authors": [],
+            "frontMatter": {
+              "slug": "more",
+              "title": "Coming Soon ...",
+              "authors": [],
+              "tags": []
+            }
+          },
+          "content": ""
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "more"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 1,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}
