@@ -3,111 +3,76 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '3d6'),
+    path: '/hashdit/blog',
+    component: ComponentCreator('/hashdit/blog', '047'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '09f'),
+    path: '/hashdit/blog/archive',
+    component: ComponentCreator('/hashdit/blog/archive', '0cc'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', '0f7'),
+    path: '/hashdit/blog/more',
+    component: ComponentCreator('/hashdit/blog/more', '7f2'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', '9ca'),
+    path: '/hashdit/markdown-page',
+    component: ComponentCreator('/hashdit/markdown-page', '194'),
     exact: true
   },
   {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '1a6'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '5c8'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', 'c3a'),
-    exact: true
-  },
-  {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'edf'),
-    exact: true
-  },
-  {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', 'c13'),
-    exact: true
-  },
-  {
-    path: '/blog/more',
-    component: ComponentCreator('/blog/more', '0f1'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', 'a46'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', '3c6'),
+    path: '/hashdit/docs',
+    component: ComponentCreator('/hashdit/docs', '84a'),
     routes: [
       {
-        path: '/docs/category/diting-api',
-        component: ComponentCreator('/docs/category/diting-api', 'ad2'),
+        path: '/hashdit/docs/category/diting-api',
+        component: ComponentCreator('/hashdit/docs/category/diting-api', 'b04'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/diting-api/api-access',
-        component: ComponentCreator('/docs/diting-api/api-access', '74e'),
+        path: '/hashdit/docs/diting-api/api-access',
+        component: ComponentCreator('/hashdit/docs/diting-api/api-access', '126'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/diting-api/api-inputs',
-        component: ComponentCreator('/docs/diting-api/api-inputs', 'c84'),
+        path: '/hashdit/docs/diting-api/api-inputs',
+        component: ComponentCreator('/hashdit/docs/diting-api/api-inputs', 'e80'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/diting-api/api-outputs',
-        component: ComponentCreator('/docs/diting-api/api-outputs', '7f2'),
+        path: '/hashdit/docs/diting-api/api-outputs',
+        component: ComponentCreator('/hashdit/docs/diting-api/api-outputs', 'fd4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/diting-api/data',
-        component: ComponentCreator('/docs/diting-api/data', '43e'),
+        path: '/hashdit/docs/diting-api/data',
+        component: ComponentCreator('/hashdit/docs/diting-api/data', '54b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/diting-api/parameters',
-        component: ComponentCreator('/docs/diting-api/parameters', 'ff0'),
+        path: '/hashdit/docs/diting-api/parameters',
+        component: ComponentCreator('/hashdit/docs/diting-api/parameters', 'ef5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/hashdit/docs/intro',
+        component: ComponentCreator('/hashdit/docs/intro', '53d'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '9aa'),
+    path: '/hashdit/',
+    component: ComponentCreator('/hashdit/', '72f'),
     exact: true
   },
   {

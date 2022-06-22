@@ -6,7 +6,7 @@
   "source": "@site/docs/diting-api/parameters.md",
   "sourceDirName": "diting-api",
   "slug": "/diting-api/parameters",
-  "permalink": "/docs/diting-api/parameters",
+  "permalink": "/hashdit/docs/diting-api/parameters",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Inputs",
-    "permalink": "/docs/diting-api/api-inputs"
+    "permalink": "/hashdit/docs/diting-api/api-inputs"
   },
   "next": {
     "title": "Outputs",
-    "permalink": "/docs/diting-api/api-outputs"
+    "permalink": "/hashdit/docs/diting-api/api-outputs"
   }
 }

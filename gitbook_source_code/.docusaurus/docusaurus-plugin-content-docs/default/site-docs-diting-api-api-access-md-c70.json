@@ -6,7 +6,7 @@
   "source": "@site/docs/diting-api/api-access.md",
   "sourceDirName": "diting-api",
   "slug": "/diting-api/api-access",
-  "permalink": "/docs/diting-api/api-access",
+  "permalink": "/hashdit/docs/diting-api/api-access",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Diting API",
-    "permalink": "/docs/category/diting-api"
+    "permalink": "/hashdit/docs/category/diting-api"
   },
   "next": {
     "title": "Inputs",
-    "permalink": "/docs/diting-api/api-inputs"
+    "permalink": "/hashdit/docs/diting-api/api-inputs"
   }
 }

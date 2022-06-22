@@ -6,13 +6,13 @@
 export default {
   "title": "HashDit",
   "tagline": "Securing BSC Security",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "url": "https://hashdit.github.io",
+  "baseUrl": "/hashdit/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "hashdit",
-  "projectName": "hashdit-docs",
+  "projectName": "hashdit",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -25,13 +25,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/barryma/work/hashdit-docs-main/sidebars.js"
+          "sidebarPath": "/Users/barryma/Documents/GitHub/hashdit/gitbook_source_code/sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "/Users/barryma/work/hashdit-docs-main/src/css/custom.css"
+          "customCss": "/Users/barryma/Documents/GitHub/hashdit/gitbook_source_code/src/css/custom.css"
         }
       }
     ]

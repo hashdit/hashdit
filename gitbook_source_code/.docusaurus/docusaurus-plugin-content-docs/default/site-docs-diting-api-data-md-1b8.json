@@ -6,7 +6,7 @@
   "source": "@site/docs/diting-api/data.md",
   "sourceDirName": "diting-api",
   "slug": "/diting-api/data",
-  "permalink": "/docs/diting-api/data",
+  "permalink": "/hashdit/docs/diting-api/data",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Outputs",
-    "permalink": "/docs/diting-api/api-outputs"
+    "permalink": "/hashdit/docs/diting-api/api-outputs"
   }
 }

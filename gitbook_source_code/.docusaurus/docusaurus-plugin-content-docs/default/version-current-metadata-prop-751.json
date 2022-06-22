@@ -11,7 +11,7 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/docs/intro",
+        "href": "/hashdit/docs/intro",
         "docId": "intro"
       },
       {
@@ -23,35 +23,35 @@
           {
             "type": "link",
             "label": "Access",
-            "href": "/docs/diting-api/api-access",
+            "href": "/hashdit/docs/diting-api/api-access",
             "docId": "diting-api/api-access"
           },
           {
             "type": "link",
             "label": "Inputs",
-            "href": "/docs/diting-api/api-inputs",
+            "href": "/hashdit/docs/diting-api/api-inputs",
             "docId": "diting-api/api-inputs"
           },
           {
             "type": "link",
             "label": "Parameters",
-            "href": "/docs/diting-api/parameters",
+            "href": "/hashdit/docs/diting-api/parameters",
             "docId": "diting-api/parameters"
           },
           {
             "type": "link",
             "label": "Outputs",
-            "href": "/docs/diting-api/api-outputs",
+            "href": "/hashdit/docs/diting-api/api-outputs",
             "docId": "diting-api/api-outputs"
           },
           {
             "type": "link",
             "label": "Data",
-            "href": "/docs/diting-api/data",
+            "href": "/hashdit/docs/diting-api/data",
             "docId": "diting-api/data"
           }
         ],
-        "href": "/docs/category/diting-api"
+        "href": "/hashdit/docs/category/diting-api"
       }
     ]
   },

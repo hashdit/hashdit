@@ -1,48 +1,48 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/hashdit/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/hashdit/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "diting-api/api-access",
-              "path": "/docs/diting-api/api-access",
+              "path": "/hashdit/docs/diting-api/api-access",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "diting-api/api-inputs",
-              "path": "/docs/diting-api/api-inputs",
+              "path": "/hashdit/docs/diting-api/api-inputs",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "diting-api/api-outputs",
-              "path": "/docs/diting-api/api-outputs",
+              "path": "/hashdit/docs/diting-api/api-outputs",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "diting-api/data",
-              "path": "/docs/diting-api/data",
+              "path": "/hashdit/docs/diting-api/data",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "diting-api/parameters",
-              "path": "/docs/diting-api/parameters",
+              "path": "/hashdit/docs/diting-api/parameters",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/hashdit/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/diting-api",
-              "path": "/docs/category/diting-api",
+              "path": "/hashdit/docs/category/diting-api",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -50,7 +50,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/hashdit/docs/intro",
                 "label": "intro"
               }
             }
