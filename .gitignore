@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+.cache/
+.docusaurus/
+build/
+gitbook_source_code/node_modules
