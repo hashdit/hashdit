@@ -8,6 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "HashDit",
   tagline: "Securing BSC Security",
+  staticDirectories: ["static"],
   url: "https://hashdit.github.io",
   baseUrl: "/hashdit/",
   onBrokenLinks: "throw",
