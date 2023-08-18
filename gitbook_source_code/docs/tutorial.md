@@ -7,17 +7,17 @@ sidebar_position: 3
 ## Tutorial
 In this tutorial, we will provide a step-by-step guide on how to use the HashDit API using Postman. 
  
-1. **Prerequisite:** The service scope of this API is currently limited to users who have applied for access by sending a request to support@hashdit.com. The received appid and appsecret are essential to be able to use the API.
+1. **Prerequisite:** The service scope of this API is currently limited to users who have applied for access by sending a request to support@hashdit.com. The received appid and appsecret are essential to accessing the API.
 
 
-2. API Endpoint: https://api.hashdit.io/security-api/public/app/v1/detect  
+2. **API Endpoint**: https://api.hashdit.io/security-api/public/app/v1/detect  
 
 
-3. After you have received appid and appsecret, you navigate to Postman and generate a request using a Pre-request Script, as shown in the figure below. Make sure that you have specified the following parameters correctly.
+3. After you have received appid and appsecret, you will navigate to Postman and generate a request using a Pre-request Script, as shown in the figure below. Make sure that you have specified the following parameters correctly.
     - Method type should be selected as POST, as shown in step1 in the figure below.
-    - Specified the correct request URL, as shown in step2 in the below figure.
+    - Specify the correct request URL, as shown in step2 in the below figure.
     - Provide a pre-request script.
-    - Set the required headers.
+    - Set the required header(s).
 
    ![](../static/img/tutorial-1.png)
 
@@ -65,7 +65,7 @@ In this tutorial, we will provide a step-by-step guide on how to use the HashDit
 
 ## Conclusion
 
-One of the core missions of Hashdit is to provide the everyday Defi investors with essential threat intelligence that will help them in making informed decisions. Investing in Defi can be both highly profitable as well as full of pitfalls at the same time, because of which it is difficult to successfully navigate through this massive landscape for both newbies and experienced investors. To bridge this gap, HashDit aims to provide timely and comprehensive threat intelligence regarding Defi projects, the HashDit Address Query Public API is one such attempt. It can be used to query the risk that may be associated with a token or smart contract due to several different vulnerabilities. In this tutorial, we have provided a step-by-step guide on how to use the API with Postman to check a smart contract's risk factor.
+One of the core missions of Hashdit is to provide the everyday DeFi investors with the essential threat intelligence that will empower them in making informed decisions. Investing in DeFi can be both highly profitable as well as filled with pitfalls,since it is difficult for both entrant and experienced investors to successfully navigate through this massive landscape. To bridge this gap, HashDit aims to provide timely and comprehensive threat intelligence on DeFi projects, the HashDit Address Query Public API is one such attempt. It can be used to query the risk that may be associated with a token or a smart contract due to several different vulnerabilities. In this tutorial, we have provided a step-by-step guide on how to use the API with Postman to check a smart contract's risk factor(s).
  
 **Pre-request Script used in this tutorial**
 ```javascript

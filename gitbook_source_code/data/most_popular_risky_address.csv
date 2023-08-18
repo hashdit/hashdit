@@ -1,101 +1,163 @@
-date,rank,address,last_7days_address,last_7days_tx_hash,risk_level
-2023-08-03,1,0xc198c3b7b970cbac315614cf27a1b7eb332048d6,158465,158465,3
-2023-08-03,2,0xffe811714ab35360b67ee195ace7c10d93f89d8c,120410,146321,5
-2023-08-03,3,0x2eeff21c71ae38f9c34496cd9250c0d186dcd988,74723,79574,3
-2023-08-03,4,0xd2ccc9ee7ea2ccd154c727a46d475dda49e99852,66049,114740,3
-2023-08-03,5,0x98f39d0f8c67885071cc99c5af1d4cacbcc89b0c,58383,69118,4
-2023-08-03,6,0x45c36b3ee5f6c9b4b494515b21a59b8b78336536,49995,50925,4
-2023-08-03,7,0x4d1e90ab966ae26c778b2f9f365aa40abb13f53c,36375,93571,3
-2023-08-03,8,0x7d052ea1d52cc92f932f89236abfad64d544795a,31979,35758,4
-2023-08-03,9,0x75ca521892de7f2ecfb070cab545c250d0ceb7e3,24894,28773,3
-2023-08-03,10,0xfdc9018af0e37abf89233554c937eb5068127080,21713,50645,4
-2023-08-03,11,0x4cb680a2589d742c30556e359a352f9c511eef54,17646,39557,4
-2023-08-03,12,0x685bfdd3c2937744c13d7de0821c83191e3027ff,17553,24456,5
-2023-08-03,13,0x1a8f43e01b78979eb4ef7febec60f32c9a72f58e,15210,33258,4
-2023-08-03,14,0x4fe59adcf621489ced2d674978132a54d432653a,14631,16643,5
-2023-08-03,15,0x13fd16538ff8b3aea324bc4d2863eb9ea78e1691,13469,24092,3
-2023-08-03,16,0x34c922901684422854c5a3ebd4004f5d48861af2,12255,23415,4
-2023-08-03,17,0x3987ccfcd097898a409b5d7538f6a349de860067,10873,15166,4
-2023-08-03,18,0x76d9a7c6164de3bc4d95ef0c011d3d22eb8b4d60,10842,11995,3
-2023-08-03,19,0xac90d1742bc55f896b6fd1f2e1a1381d0c1c3adc,10474,11139,4
-2023-08-03,20,0xcfa40a7ae369ba43b71348a66712f44e37a5b0a1,10121,14225,4
-2023-08-03,21,0x918f5be29759552b2bec5f9a1eb049c3060eb108,9272,19630,4
-2023-08-03,22,0xe19417837d8e61f17dfae2e6a11b1e4810dae2a5,9152,9703,3
-2023-08-03,23,0xfa500178de024bf43cfa69b7e636a28ab68f2741,8978,24218,4
-2023-08-03,24,0xba509bdb71a29301860800e13867b59b461747af,8605,42379,4
-2023-08-03,25,0x9885c17dd44c00c37b98f510cdff099eff437dce,7948,8243,3
-2023-08-03,26,0xef2b07b1fec00caccdd8dadeaa25900c808ca3dd,7278,11882,4
-2023-08-03,27,0xce93f9827813761665ce348e33768cb1875a9704,6823,12158,5
-2023-08-03,28,0xc0489a862a457d529b102e5b10a0b4172d0716e5,6491,6511,4
-2023-08-03,29,0x00000000000e8716b4e2d12400a01474cdfad760,5986,38801,4
-2023-08-03,30,0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e,5823,6996,4
-2023-08-03,31,0xd691d9a68c887bdf34da8c36f63487333acfd103,5579,6693,4
-2023-08-03,32,0x1514c766127378ea9653f9f4428fe25f3fd256c3,5359,15515,4
-2023-08-03,33,0x1f853fe0f88e3236ccc4d5feaf60b2a416a17fa5,5287,10552,4
-2023-08-03,34,0x15f8eddffe345bdb958ddecf5c842d439a744b78,5067,5084,4
-2023-08-03,35,0x20f663cea80face82acdfa3aae6862d246ce0333,4944,9186,3
-2023-08-03,36,0xefa48952f3f82ba7fd1b45b1a993c362bf043571,4941,5115,4
-2023-08-03,37,0xb9d35811424600fa9e8cd62a0471fbd025131cb8,4719,6280,3
-2023-08-03,38,0xb0fb5739da1198329b0241cb6721da22805cbecc,4686,4698,5
-2023-08-03,39,0xcecce97529effc360f68b3f26eef4ad74ebf5705,4517,18586,4
-2023-08-03,40,0x625b02b687ec38f3085af5b108dda410775fa76a,4502,6074,3
-2023-08-03,41,0x65efb57c57c0b870f378ba08ee6ba305ca14491f,4499,6831,5
-2023-08-03,42,0xe432d61a90604aef42c65d2c7f6565006dd29fe6,4246,4311,4
-2023-08-03,43,0x3bfe12d0b3d67103e0e7e9841ba9d8a56cb67847,4213,4301,4
-2023-08-03,44,0x2d1cfbb3468f78f916cca25f050d44b6115392e0,3880,17898,5
-2023-08-03,45,0x4238e5ccc619dcc8c00ade4cfc5d3d9020b24898,3623,5177,4
-2023-08-03,46,0xf4a510a6b294a656f0afc2eed3f2868965c57bb1,3514,4365,4
-2023-08-03,47,0xc0752c6f2a919d4a48eb5037189d55d0c7f67b43,3445,3447,4
-2023-08-03,48,0xf89f139dc5c950d0bd698e7e62cf23c8863c4c3f,3414,6591,3
-2023-08-03,49,0x000011387eb24f199e875b1325e4805efd3b0000,3351,3571,4
-2023-08-03,50,0x2caa4694cb7daf7d49a198dc1103c06d4991ae52,3029,3175,5
-2023-08-03,51,0xfabd2e573e13abd43fd48831f6c191a475f77aab,3015,3129,4
-2023-08-03,52,0x9d379e2d4bdcd59503390a57078c1bf821d5742a,2930,3271,3
-2023-08-03,53,0xd50cf00b6e600dd036ba8ef475677d816d6c4281,2899,4772,4
-2023-08-03,54,0x9a703326e8ac3f2a08fe012f36a1ec8b0d2d47a1,2891,9803,4
-2023-08-03,55,0x3e573bf50b7625d9976fd65a8c0cdfbbc7b63a10,2857,3765,4
-2023-08-03,56,0x1a97b0cf1efb5228027dd782ed5d82c901694042,2850,3515,3
-2023-08-03,57,0xbbe86d676fed08c0d99815f4dea649363bb92922,2838,15755,4
-2023-08-03,58,0xfaaa91e0e743139cb440e4282897c057d67ef78a,2779,12158,4
-2023-08-03,59,0xaa057c8e93ba269e8c1a1cf586569336c74acf40,2743,16495,4
-2023-08-03,60,0x224b239b8bb896f125bd77eb334e302a318d9e33,2736,3283,3
-2023-08-03,61,0xe9aa536d373adc29d0a40788eb29b706ea101413,2727,3038,4
-2023-08-03,62,0x11a1764c877837921eca6f3f58cdbe9bcd4e9e5e,2723,3635,5
-2023-08-03,63,0xb591bcf80709b8a2010bff334ffe1f79bc4ce615,2631,2832,4
-2023-08-03,64,0xc4742f0628a0e9961cc64d85854aa053bd54829d,2616,4922,3
-2023-08-03,65,0xb86126b872e3f23bc62d6a4a3152ec65202a2073,2559,4456,4
-2023-08-03,66,0x1218a7ea219c46c40a6774ad713645a6748d9f7a,2493,3939,3
-2023-08-03,67,0x2e6bfcd0d66b83e3d615cdf4751b64b2df72f094,2485,2765,3
-2023-08-03,68,0x98872a66d0749c720d8dc1a80d496b24b04ff7c5,2303,2413,5
-2023-08-03,69,0xbecfd0bb03b34d973c0ee577d20a7f363a0e2094,2158,3171,5
-2023-08-03,70,0x378b7a04c7cc71556319cd031cd56b1f986e2024,2049,2541,4
-2023-08-03,71,0xb550d4057ee92a9f1b0e88af55034a788c2010a9,2003,2337,3
-2023-08-03,72,0x8fff93e810a2edaafc326edee51071da9d398e83,1927,3377,3
-2023-08-03,73,0xd247fff8005917adc02f59ba8f2dde02c13ee92d,1908,3945,4
-2023-08-03,74,0x00000000004e660d7929b04626bbf28cbecce534,1890,35516,4
-2023-08-03,75,0x0000000000f83bf708c3e3bd57f24411f6fc67f5,1886,18584,4
-2023-08-03,76,0x5a87771c0522191ed915fb669b04470d801fae1c,1866,3131,3
-2023-08-03,77,0xe341f30ea040bf3691aa069b8c5c213f72676421,1717,8459,4
-2023-08-03,78,0x258c232965de5095aaad2a91e6b5518b57d02b1f,1664,1946,4
-2023-08-03,79,0xc1f024ddc894b00b3e5ff2396ff2cd6ed2fc53d6,1655,1914,4
-2023-08-03,80,0x694a98af680d192959c06c514d8fe534ff7b81b5,1635,1983,4
-2023-08-03,81,0x9ced11e302e6f3d0e8488ba068871bff8cabf059,1628,4399,4
-2023-08-03,82,0xeef57012ea54604b8d22a984e3eae45943667c33,1618,2055,3
-2023-08-03,83,0x84b221ac6c1a21a2ad8d477ecf313d4dc5b4cc56,1592,6075,3
-2023-08-03,84,0x7f9ad7a5854658d984924e868187b2135514fb88,1571,1929,3
-2023-08-03,85,0x53e180c1417feba50363b822919fa47ba2b49234,1465,1971,3
-2023-08-03,86,0xc92962f4c20ce9dd3181042074f3c5776a3e22dd,1454,1599,4
-2023-08-03,87,0xc8370b71329a6b716b867e875667c33488b4a44a,1440,1600,3
-2023-08-03,88,0x9db65123aa185811e50f8b626a7d4799c39ea4d5,1436,1858,4
-2023-08-03,89,0x1f8a98be5c102d145ac672ded99c5be0330d7e4f,1419,2129,4
-2023-08-03,90,0x898e88f6e2b1855e64bea8d43657fca7a8735687,1400,1727,4
-2023-08-03,91,0x4799c398bf0c202a985149796524c34043d62df9,1354,1627,3
-2023-08-03,92,0xfe7193260dcf8bd15dddcd8f27929d47589f51e8,1320,1424,4
-2023-08-03,93,0x3ab7014d0e896a8e486fbf5bc590eeb93d6f44bf,1319,1940,3
-2023-08-03,94,0x4908b8977f91e2257e5260551e7dc2950b1b3877,1306,1422,4
-2023-08-03,95,0x42dabca1af369fbd9e8ea286dafba45b23fc92d9,1283,1387,4
-2023-08-03,96,0xd22202d23fe7de9e3dbe11a2a88f42f4cb9507cf,1244,1557,3
-2023-08-03,97,0xbb69dcf15d9a7009de468cd9a80d075a90366666,1243,1812,3
-2023-08-03,98,0x37184f77d46249cd1e330ce1dc23f0ea2f8e81f2,1210,2056,3
-2023-08-03,99,0x4c4976a83d279f05c121fc2d1576fbc0d1bc3d4e,1204,2161,4
-2023-08-03,100,0xa5f249f401ba8931899a364d8e2699b5fa1d87a9,1200,2714,3
+date,address,type,last_7days_address,risk_level,risk_description
+2023-08-14,0xc198c3b7b970cbac315614cf27a1b7eb332048d6,General_Trending_Risky,143559,3,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x2258cdbae4ceb1f5c56c809bb66bc8dd4919cb77,General_Trending_Risky,97157,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xffe811714ab35360b67ee195ace7c10d93f89d8c,General_Trending_Risky,93714,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x2eeff21c71ae38f9c34496cd9250c0d186dcd988,General_Trending_Risky,74607,3,"the address is blacklisted based on threat intelligence or manual analysis.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x3549a60c696eb31dcedad3fa9e7703ff21069c92,General_Trending_Risky,41950,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x4d1e90ab966ae26c778b2f9f365aa40abb13f53c,General_Trending_Risky,24658,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x04f46cdfe8dd348e41902eef1aff19ace1661f4c,General_Trending_Risky,24553,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x4cb680a2589d742c30556e359a352f9c511eef54,General_Trending_Risky,20390,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x8b80b49c1705e22988b64a35242a16d5c4e45542,General_Trending_Risky,18985,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xcfa40a7ae369ba43b71348a66712f44e37a5b0a1,General_Trending_Risky,18041,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xfdc9018af0e37abf89233554c937eb5068127080,General_Trending_Risky,14153,4,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk."
+2023-08-14,0x4fe59adcf621489ced2d674978132a54d432653a,General_Trending_Risky,13498,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x685bfdd3c2937744c13d7de0821c83191e3027ff,General_Trending_Risky,12838,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x75ca521892de7f2ecfb070cab545c250d0ceb7e3,General_Trending_Risky,12174,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x38904795935eec8f5ae5e01e4915313177b420dc,General_Trending_Risky,11888,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x13fd16538ff8b3aea324bc4d2863eb9ea78e1691,General_Trending_Risky,10223,3,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xac90d1742bc55f896b6fd1f2e1a1381d0c1c3adc,General_Trending_Risky,9664,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x76d9a7c6164de3bc4d95ef0c011d3d22eb8b4d60,General_Trending_Risky,9588,3,"the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x65efb57c57c0b870f378ba08ee6ba305ca14491f,General_Trending_Risky,9337,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x20f663cea80face82acdfa3aae6862d246ce0333,General_Trending_Risky,8876,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xef2b07b1fec00caccdd8dadeaa25900c808ca3dd,General_Trending_Risky,8490,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xf31b0b3d2cd9e45c1d41abc5ee88dcb4a1976070,General_Trending_Risky,7893,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xe19417837d8e61f17dfae2e6a11b1e4810dae2a5,General_Trending_Risky,7644,3,"the address is blacklisted based on threat intelligence or manual analysis.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x918f5be29759552b2bec5f9a1eb049c3060eb108,General_Trending_Risky,6524,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xfa500178de024bf43cfa69b7e636a28ab68f2741,General_Trending_Risky,6330,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x4238e5ccc619dcc8c00ade4cfc5d3d9020b24898,General_Trending_Risky,6303,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x569aaae276a2cb6f85da9cb513e8d51454d5b640,General_Trending_Risky,5788,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x07da81e9a684ab87fad7206b3bc8d0866f48cc7c,General_Trending_Risky,5575,4,"the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xce93f9827813761665ce348e33768cb1875a9704,General_Trending_Risky,5275,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xb52fc18dc508b6e12ec8b5519667c8deda27f8d6,General_Trending_Risky,4973,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xb220770a567da464754ab769c3370326d4cc8904,General_Trending_Risky,4937,3,"the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x08a4a3ca4f093094f46e00ca2796dc149c06ba35,General_Trending_Risky,4575,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xe71a487706a065ae0947576f8e591732360d39fb,General_Trending_Risky,4518,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xefa48952f3f82ba7fd1b45b1a993c362bf043571,General_Trending_Risky,4411,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x1514c766127378ea9653f9f4428fe25f3fd256c3,General_Trending_Risky,4076,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x50b674ad2b8ddc3752ca028c9f8f44f599470f2c,General_Trending_Risky,4018,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x2ab0e9e4ee70fff1fb9d67031e44f6410170d00e,General_Trending_Risky,3918,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xd691d9a68c887bdf34da8c36f63487333acfd103,General_Trending_Risky,3903,4,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x625b02b687ec38f3085af5b108dda410775fa76a,General_Trending_Risky,3680,3,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xba509bdb71a29301860800e13867b59b461747af,General_Trending_Risky,3639,4,"the address is blacklisted based on threat intelligence or manual analysis.;the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk."
+2023-08-14,0x34c922901684422854c5a3ebd4004f5d48861af2,General_Trending_Risky,3630,4,"the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk.;the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xc0752c6f2a919d4a48eb5037189d55d0c7f67b43,General_Trending_Risky,3579,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xcecce97529effc360f68b3f26eef4ad74ebf5705,General_Trending_Risky,3286,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x0cc8bf1d8295170fea600c26efe472c3e0fbeb93,General_Trending_Risky,3080,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x77d34de33a75ac2a772f8c47080c0232cbff463b,General_Trending_Risky,3026,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xf4a510a6b294a656f0afc2eed3f2868965c57bb1,General_Trending_Risky,2994,4,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk."
+2023-08-14,0xb0fb5739da1198329b0241cb6721da22805cbecc,General_Trending_Risky,2788,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x7f9ad7a5854658d984924e868187b2135514fb88,General_Trending_Risky,2753,3,"the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x55d3ab24f818f37567acbc4b422a39f263f5fa39,General_Trending_Risky,2733,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x40e1ca7b92dcebd2bc6e08e14f1e65ebdc8e492d,General_Trending_Risky,2706,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x11a1764c877837921eca6f3f58cdbe9bcd4e9e5e,General_Trending_Risky,2581,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x6336efef8681257e59ba36887f285336054a2529,General_Trending_Risky,2571,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xa9ea52d60111073e34fad966c03f70684e5b205d,General_Trending_Risky,2539,4,"the address is related with some mixcoin platform such as Tornado, which always means some potential risks, please be careful of scam risk.;the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x92da64158d49bf9f7effd70e0325e878bf327883,General_Trending_Risky,2523,3,"the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk."
+2023-08-14,0x1218a7ea219c46c40a6774ad713645a6748d9f7a,General_Trending_Risky,2494,3,"the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xce5452e8b6334071e207ae5c300ed12df7ecbf9e,General_Trending_Risky,2491,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x0eb455a49bf180ded02732b9aa52a3b7c1146a8d,General_Trending_Risky,2479,4,"the address is blacklisted based on threat intelligence or manual analysis.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x4799c398bf0c202a985149796524c34043d62df9,General_Trending_Risky,2468,3,"the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x880db1271415113b88ae1f6d808c5b9bd7f66778,General_Trending_Risky,2448,3,"the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk."
+2023-08-14,0x9d379e2d4bdcd59503390a57078c1bf821d5742a,General_Trending_Risky,2436,3,"the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xbaac55fdbb253b7d1b6a60763e8ffe8d3a451c0c,General_Trending_Risky,2419,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x2caa4694cb7daf7d49a198dc1103c06d4991ae52,General_Trending_Risky,2395,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xb9d35811424600fa9e8cd62a0471fbd025131cb8,General_Trending_Risky,2359,3,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xbbe86d676fed08c0d99815f4dea649363bb92922,General_Trending_Risky,2304,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x4d8d951f1b7c88341096772dfc391b57697f4115,General_Trending_Risky,2282,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x37fed4ee9c400eb4bcdfa0815430850d0abc1caf,General_Trending_Risky,2270,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xbecfd0bb03b34d973c0ee577d20a7f363a0e2094,General_Trending_Risky,2107,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x9a703326e8ac3f2a08fe012f36a1ec8b0d2d47a1,General_Trending_Risky,2080,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xc0489a862a457d529b102e5b10a0b4172d0716e5,General_Trending_Risky,2073,4,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk."
+2023-08-14,0xb86126b872e3f23bc62d6a4a3152ec65202a2073,General_Trending_Risky,1980,4,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk."
+2023-08-14,0x9e7cdf17848a50f334a880d4b1333c151bc25ce5,General_Trending_Risky,1912,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xd50cf00b6e600dd036ba8ef475677d816d6c4281,General_Trending_Risky,1912,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xe385aac4629a0681eda0266cae5e4a73c7c4ef1e,General_Trending_Risky,1910,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xe9aa536d373adc29d0a40788eb29b706ea101413,General_Trending_Risky,1897,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x224b239b8bb896f125bd77eb334e302a318d9e33,General_Trending_Risky,1849,3,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xe341f30ea040bf3691aa069b8c5c213f72676421,General_Trending_Risky,1839,4,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xaa057c8e93ba269e8c1a1cf586569336c74acf40,General_Trending_Risky,1803,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xfabd2e573e13abd43fd48831f6c191a475f77aab,General_Trending_Risky,1741,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0xb550d4057ee92a9f1b0e88af55034a788c2010a9,General_Trending_Risky,1683,3,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x4d7fa587ec8e50bd0e9cd837cb4da796f47218a1,General_Trending_Risky,1676,4,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk."
+2023-08-14,0x02605063d18ffc7220a1f0aa8d50626eec999999,General_Trending_Risky,1673,3,"the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x98872a66d0749c720d8dc1a80d496b24b04ff7c5,General_Trending_Risky,1653,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x3ce32d6fe7108b62f6ae1dd079a38acee2858c7e,General_Trending_Risky,1606,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x9ced11e302e6f3d0e8488ba068871bff8cabf059,General_Trending_Risky,1585,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x0000000000016a723d0d576df7dc79ec149ac760,General_Trending_Risky,1581,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x00000000004e660d7929b04626bbf28cbecce534,General_Trending_Risky,1573,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xc92962f4c20ce9dd3181042074f3c5776a3e22dd,General_Trending_Risky,1564,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xc4742f0628a0e9961cc64d85854aa053bd54829d,General_Trending_Risky,1560,3,"the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xfb5b838b6cfeedc2873ab27866079ac55363d37e,General_Trending_Risky,1550,3,"the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk."
+2023-08-14,0x0000000000f83bf708c3e3bd57f24411f6fc67f5,General_Trending_Risky,1549,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x526de76cc684fb091ed0e1bbed22a30535985877,General_Trending_Risky,1506,4,"the address is blacklisted based on threat intelligence or manual analysis.;the address is related with some mixcoin platform such as Tornado, which always means some potential risks, please be careful of scam risk."
+2023-08-14,0xda8a5bbe2110757840855f253796e005683a22ec,General_Trending_Risky,1488,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x34b9d8b0b52f827c0f6657183ef88e6e0eeff54c,General_Trending_Risky,1485,4,"the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x3ab7014d0e896a8e486fbf5bc590eeb93d6f44bf,General_Trending_Risky,1478,3,"the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk."
+2023-08-14,0xc1f024ddc894b00b3e5ff2396ff2cd6ed2fc53d6,General_Trending_Risky,1470,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xfaaa91e0e743139cb440e4282897c057d67ef78a,General_Trending_Risky,1400,4,"the address is related with some mixcoin platform such as Tornado, which always means some potential risks, please be careful of scam risk.;the contract is ununverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-08-14,0x1a97b0cf1efb5228027dd782ed5d82c901694042,General_Trending_Risky,1269,4,"the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x8069144052f239863d72629fa305476d7abc5868,General_Trending_Risky,1263,3,"the address is related with some mixcoin platform such as Tornado, which always means some potential risks, please be careful of scam risk."
+2023-08-14,0x9f7277778c798ef0bc1debf28994eaec1af7ba24,General_Trending_Risky,1235,3,"the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xb591bcf80709b8a2010bff334ffe1f79bc4ce615,General_Trending_Risky,1228,4,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xced59c3249f20ca36fba764bfdd9d94f471b3154,Top_TVL_Risky_Pool,1,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xb1a1d06d42a43a8fcfdc7fdcd744f7ef03e8ad1a,Top_TVL_Risky_Pool,25,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x95173a846cf2134ce5d1dc86bdfb46aa8e41f697,Top_TVL_Risky_Pool,7,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xc24796458fbea043780eea59ebba4ad40e87c29b,Top_TVL_Risky_Pool,0,5,"the address is blacklisted based on threat intelligence or manual analysis.;the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xe0796f447d28d99ec893721e32f84ad1bf9f60da,Top_TVL_Risky_Pool,0,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xabe776435f7459e2f5ba773bfb753ed19a053dd0,Top_TVL_Risky_Pool,12180,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x425e2ef5e72a85a676ccb022ef96979d64bb5be2,Top_TVL_Risky_Pool,14,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x079c84ce97c72c79e7402d4383c6b2d25e51a426,Top_TVL_Risky_Pool,8,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x0b1ff525e092a98210ed150f8b08313f646847d6,Top_TVL_Risky_Pool,5,5,"the address is related with some mixcoin platform such as Tornado, which always means some potential risks, please be careful of scam risk.;the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk."
+2023-08-14,0x4c3145cb6285eb269c37685e05ff8c6684a70ec7,Top_TVL_Risky_Pool,476,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x9e9bef94795bfe87a11a0369b4e0c3b60a6fcf2b,Top_TVL_Risky_Pool,675,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x90a1e4bbade88366dc44436535f1571d95e666c7,Top_TVL_Risky_Pool,24,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x67f785d5cf3784e8f35876df323acf193350081f,Top_TVL_Risky_Pool,,5,"the address is blacklisted based on threat intelligence or manual analysis.;the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x2ffc49e7331ceb6a6831336cca3a85899fb68d40,Top_TVL_Risky_Pool,23,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x23d7127a3f674c7bdeaa4afa3662769b13540d2f,Top_TVL_Risky_Pool,50,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xdf7ff95aa3d855a6fb21399432166a92fdcf1b1a,Top_TVL_Risky_Pool,0,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x1d48fcc64a8005bd83d41af50284029cd2331a14,Top_TVL_Risky_Pool,0,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xb12e8eb6b1f24e14381514d2f3b75e7c61487016,Top_TVL_Risky_Pool,218,5,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xc45b64cd6643a18f62a5420ddc85bff128625176,Top_TVL_Risky_Pool,13,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xf17f7827403c166fda782ceb17b29900d1a2ad15,Top_TVL_Risky_Pool,1,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x4d50e3f89bbc63d199e1bbbd04cd15bf2382592b,Top_TVL_Risky_Pool,28,5,"the address is blacklisted based on threat intelligence or manual analysis.;the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xf8d90d089e5a422183d3a368251b2f88e634bd92,Top_TVL_Risky_Pool,5,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x9f2eea5375992f8eb33eb1fdf56476c6f1a89ded,Top_TVL_Risky_Pool,0,5,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xd024ac1195762f6f13f8cfdf3cdd2c97b33b248b,Top_TVL_Risky_Pool,43,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xac7ae2eca9aa162590f884efd36f29056953b49f,Top_TVL_Risky_Pool,1,5,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xb695806cc5a3cd8623b92bbd221e3bec6e8e3bed,Top_TVL_Risky_Pool,13,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x33714356e2a3e216d055440eb24d0e23458b1b85,Top_TVL_Risky_Pool,0,5,"the address is related with some mixcoin platform such as Tornado, which always means some potential risks, please be careful of scam risk.;the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk."
+2023-08-14,0x0f9adaaccd7caecc5019194e15ad19624fed95fa,Top_TVL_Risky_Pool,103,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x210d8411ee042c02f80505916c1068c2be1d6d07,Top_TVL_Risky_Pool,,5,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk."
+2023-08-14,0x29c55f1b02a95f0b30e61976835a3eee2359ad92,Top_TVL_Risky_Pool,107,5,"the address is related with some mixcoin platform such as Tornado, which always means some potential risks, please be careful of scam risk.;the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x378b7a04c7cc71556319cd031cd56b1f986e2024,Top_TVL_Risky_Pool,1047,5,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0xa03110800894b3ccf8723d991d80875561f96777,Top_TVL_Risky_Pool,77,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x83d3c2d1a55687498df6800c5f173ec6a7556089,Top_TVL_Risky_Pool,2188,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x8f2775e4be08055c7dd4ebf654628b183106a8e1,Top_TVL_Risky_Pool,91,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x65a7ab3332e110128283bec3c926e940a9e2a860,Top_TVL_Risky_Pool,54,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x502435713854f5e92d048d27de95c9ce16dc380d,Top_TVL_Risky_Pool,72,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x1e2701d1e4f11262dad7c6f7922e3e44e14d7e40,Top_TVL_Risky_Pool,,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x6e9f02f933575cc5f7938fc55ed304f3435d3508,Top_TVL_Risky_Pool,29,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x705e537e2c8be47e6ebf39dc30b3c63944dcfba2,Top_TVL_Risky_Pool,0,5,"the address is blacklisted based on threat intelligence or manual analysis.;the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x0c7fc02c7417bcf147a70fac98f0390f82c0ca2b,Top_TVL_Risky_Pool,1,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x10f292a6e694c38c5d570127da445143a2d882f3,Top_TVL_Risky_Pool,0,5,"the address is related with some mixcoin platform such as Tornado, which always means some potential risks, please be careful of scam risk.;the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk."
+2023-08-14,0x6df52fc4c234600d2d1f064c33be762146964bb1,Top_TVL_Risky_Pool,495,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x231b69254d48de6e96c395100b3d9bce8d658e49,Top_TVL_Risky_Pool,5,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xa2474c63ecf808717e93d4981ca05ec65e67fc29,Top_TVL_Risky_Pool,2,5,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x7918f0ba2d3ff06dec4b8fa7079df01c8a0d68f8,Top_TVL_Risky_Pool,1,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xbdfed84a3c0735a01abc74aad54e66cd50a60b74,Top_TVL_Risky_Pool,1,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x066aee69d93dee28b32a57febd1878a2d94f6b0c,Top_TVL_Risky_Pool,5242,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x64b5d3f6fd5fbc4f2832c8c42315d5fdd6bc8bd2,Top_TVL_Risky_Pool,60,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xeb6b00f8c7e1da78fb919c810c30dde95475bdde,Top_TVL_Risky_Pool,2,5,"the address is related with some mixcoin platform such as Tornado, which always means some potential risks, please be careful of scam risk.;the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk."
+2023-08-14,0xabe776435f7459e2f5ba773bfb753ed19a053dd0,Trending_Risky_Pool,12180,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xc8cbe83ed79cf762b74518be313ea5c1da0fff6c,Trending_Risky_Pool,340,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x9e9bef94795bfe87a11a0369b4e0c3b60a6fcf2b,Trending_Risky_Pool,675,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x83d3c2d1a55687498df6800c5f173ec6a7556089,Trending_Risky_Pool,2188,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xa13c2b76e6aa339a3701b30dcafc7209f6145e13,Trending_Risky_Pool,248,5,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x502435713854f5e92d048d27de95c9ce16dc380d,Trending_Risky_Pool,72,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x11a1764c877837921eca6f3f58cdbe9bcd4e9e5e,Trending_Risky_Pool,3631,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xc8cbe83ed79cf762b74518be313ea5c1da0fff6c,Trending_Risky_Tokens,340,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x9e9bef94795bfe87a11a0369b4e0c3b60a6fcf2b,Trending_Risky_Tokens,675,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x83d3c2d1a55687498df6800c5f173ec6a7556089,Trending_Risky_Tokens,2188,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0xa13c2b76e6aa339a3701b30dcafc7209f6145e13,Trending_Risky_Tokens,248,5,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract contains some previliged role function which always means some centralization risk, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-08-14,0x502435713854f5e92d048d27de95c9ce16dc380d,Trending_Risky_Tokens,72,5,the address is blacklisted based on threat intelligence or manual analysis.
+2023-08-14,0x11a1764c877837921eca6f3f58cdbe9bcd4e9e5e,Trending_Risky_Tokens,3631,5,the address is blacklisted based on threat intelligence or manual analysis.
