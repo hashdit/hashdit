@@ -792,4 +792,3 @@ date,,type,Weekly_Active_Transactions,risk_level,risk_description
 2023-08-28,0x6f50b416c873505a0f23b07097b60bc0eabad2ea,trending_tokens_top1k_>300txs,0,4,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk."
 2023-08-28,0x60fa23c80edb7bcc19e4bbd1960ddd7e59e758d7,trending_tokens_top1k_>300txs,0,4,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk.;the contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
 2023-08-28,0x4d61919c4709420ef5758c22fe0dc47f971cf967,trending_tokens_top1k_>300txs,0,4,"the contract contains some backdoor functon which always means the owner has some potentially malicious, please be careful of rugpull risk."
-,,,,4,
