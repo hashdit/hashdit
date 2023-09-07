@@ -42,9 +42,10 @@ The largest security incident this month occurred with a fake LayerZero token, r
 
 ![IMG-4](./august_incidents/4.png)
 
-2. New risks flagged in [RedAlarm](https://dappbay.bnbchain.org/red-alarm) \
-A total of ? dApps and ? addresses were added to Hashdit's RedAlarm in August.
-This was an increase from ? dApps and ? addresses added in July, a ?% and ?% respectively. 
+2. New risks flagged in [RedAlarm](https://dappbay.bnbchain.org/red-alarm)
+
+A total of 319 dApps and 64 addresses were added to Hashdit's RedAlarm in August alone.
+This amounts to a total of 1679 smart contracts on RedAlarm currently.
 
 ## Word of Advice
 With the current trends in the BSC security landscape, Hashdit advices the community to:
