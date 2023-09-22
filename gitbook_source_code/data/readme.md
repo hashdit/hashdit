@@ -11,6 +11,7 @@ This sheet aims to aggregate risky addresses through different sources
 2. Top_TVL_Risky_Pool: Risky tokens ordered by the top TVL pools on PancakeSwap					
 3. Trending_Risky_Pool: Risky tokens ordered by the daily Volume of pools on PancakeSwap					
 4. Trending_Risky_Tokens: Risky tokens ordered by daily Volume
+5. Weekly_Trending_Risky: High risk contracts flagged by observing top traffic contracts on BSC
 
 ## share_with_bscscan_risky_addresses (updated weekly)
 
