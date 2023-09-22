@@ -696,3 +696,14 @@ date,address,type,WAT,risk_level,risk_description
 2023-09-21,0x2f5fb3d3ab21bde07c5aa389e92366651b406c30,Trending_Risky_Tokens,9,4,The address is blacklisted based on threat intelligence or manual analysis.; The address was marked as red alarm on: https://dappbay.bnbchain.org/red-alarm.
 2023-09-21,0x95173a846cf2134ce5d1dc86bdfb46aa8e41f697,Trending_Risky_Tokens,6,5,The address is blacklisted based on threat intelligence or manual analysis.; The address was marked as red alarm on: https://dappbay.bnbchain.org/red-alarm.
 2023-09-21,0x49cedcdf72647074a1463abbcc24e10c7ecdeb43,Trending_Risky_Tokens,0,5,The address is blacklisted based on threat intelligence or manual analysis.
+2023-09-21,0x73f21E41be49386d0a34AB28888d62ea2B7f5ba7,Weekly_Trending_Risky,NIL,4,"This contract contains obfuscated code, which usually signify some risks."
+2023-09-21,0xdc2ff664048d510ebad5777495fc1098a0c4a3d5,Weekly_Trending_Risky,NIL,4,"The contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-09-21,0xd8ce5642bf6ee1e7299b212747bdba20e35061f6,Weekly_Trending_Risky,NIL,4,"The contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-09-21,0x438832d5cf6719ab8498e8e634e3aea4431f080b,Weekly_Trending_Risky,NIL,4,"The contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-09-21,0x02813f0b6474fab0770e9c3cbb57d9c6f6f89c65,Weekly_Trending_Risky,NIL,4,"The contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-09-21,0x45c78a83f113ce675ced206a884624d056294d5f,Weekly_Trending_Risky,NIL,4,"The contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-09-21,0x264302b4c78f41326f72e2411610b7549358c4f7,Weekly_Trending_Risky,NIL,4,"The contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk."
+2023-09-21,0xd7b1b61aeaeb655d7bd08aa75ac4006776619a35,Weekly_Trending_Risky,NIL,4,"The contract is unverified which always indicates some potential risks, please be careful of scam or hack risk."
+2023-09-21,0x7752065193d129132f37b144f7465fa2a271994a,Weekly_Trending_Risky,NIL,4,"The contract contains some backdoor function which could mean the owner has some potentially malicious intent, please be careful of rugpull risk."
+2023-09-21,0xed84451d36e4cb3763140ec304c13c900e0ae17e,Weekly_Trending_Risky,NIL,4,"The contract contains some backdoor function which could mean the owner has some potentially malicious intent, please be careful of rugpull risk."
+2023-09-21,0x2946545038b7450de88d727ec9f32d673c3a7312,Weekly_Trending_Risky,NIL,4,"This contract contains obfuscated code, which usually signify some risks."
