@@ -88,4 +88,4 @@ Final security takeaway: ***do not sign any transactions if you do not know what
 
 Feel free to consult us at our email support@hashdit.io if you have any other queries.
  
-
+</div>
