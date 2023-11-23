@@ -4,36 +4,64 @@ sidebar_position: 2
 
 # HashDit Extension
 
+<div align="justify">
+
 HashDit Extension is a complimentary, open-source web3 security tool designed to shield you from a variety of cyber threats and phishing scams, it is available in the Chrome web store now: [https://tinyurl.com/mnsv3f7y](https://tinyurl.com/mnsv3f7y).
+
+</div>
 
 ![IMG-1](./images/extension/1.png)
 
+<div align="justify">
+
 HashDit Extension is designed to serve as an extra layer of protection when interacting with websites that involve digital assets. It works by sitting in between websites and extension-based wallets like TrustWallet and MetaMask, analyzing transactions, identifying risk factors, and alerting you to potential threats. 
+
+</div>
 
 ![IMG-2](./images/extension/2.png)
 
+<div align="justify">
+
 HashDit Extension applies multi-layered defense mechanisms to safeguard your online interaction.
+
+</div>
 
 ## Layer1: Realtime Phishing Scanning Before Connecting Website
 
+<div align="justify">
+
 HashDit extension proactively identifies new risky websites and alerts you of any phishing or scam websites before interacting, preventing any accidental divulgence of your sensitive information or funds.
 Potential wallet drainers can connect and clean out your wallet before you realize it. HashDit Extension patrols your wallet perpetually, identifying potential threats before they could connect to your wallet.
+
+</div>
 
 ![IMG-3](./images/extension/3.png)
 
 <p align="center">
 <i> Phishing Website Warning of HashDit Extension </i> 
 </p>
- 
 
 ## Layer2:  Well-Rounded Detection Before Proceeding Transaction & Signature
 
+<div align="justify">
+
 The HashDit Extension combines the website, transaction, contract and receipt address information to deliver well-rounded detection and analysis.  
 By generating warnings about risky transactions or suspicious signatures, the HashDit Extension ensures that you are aware of potential harm before proceeding with any transaction.
- 
+
+</div>
+
 <div align="center" >
-<img src="./images/extension/4.png" width="300" height="580" /> 
-<img src="./images/extension/5.png" width="300" height="580" /> 
+
+<img
+  src={require('./images/extension/4.png').default}
+  alt="Example banner"
+  width="300" height="580"
+/>
+<img
+  src={require('./images/extension/5.png').default}
+  alt="Example banner"
+  width="300" height="580"
+/>
 </div>
 
 <p align="center">
@@ -43,8 +71,14 @@ By generating warnings about risky transactions or suspicious signatures, the Ha
 HashDit Extension goes beyond just warnings. It provides easy-to-understand insights into transactions and signatures, increasing users’ knowledge and awareness,  which is especially helpful for newcomers in the crypto world.
  
 <div align="center" >
-<img src="./images/extension/6.png" width="300" height="550" /> 
+
+<img
+  src={require('./images/extension/6.png').default}
+  alt="Example banner"
+  width="300" height="550"
+/>
 </div>
+
 
 <p align="center">
 <i> Signature Insight of HashDit Extension Pop Up </i> 

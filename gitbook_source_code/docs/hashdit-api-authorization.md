@@ -2,18 +2,21 @@
 sidebar_position: 5
 ---
 
-HashDit API Authorization
+# HashDit API Authorization
 
 When the client calls server’s restful interface, client need to set the following headers to pass the server’s authorization
 
-Header	Description
-Content-Type	application/json;charset=UTF-8
-X-Signature-appid	Appid, unique code
-X-Signature-timestamp	Timestamp, millisecond
-X-Signature-nonce	Random uuid, replace “-” with “”，32 byte length
-X-Signature-signature	Signature,lowercase,check below for sign details
+| Header      | 	Description |
+| ----------- | 	----------- |
+|Content-Type|	application/json;charset=UTF-8|
+|X-Signature-appid|	Appid, unique code|
+|X-Signature-timestamp|	Timestamp, millisecond|
+|X-Signature-nonce|	Random uuid, replace “-” with “”，32 byte length|
+|X-Signature-signature|	Signature,lowercase,check below for sign details|
 
-Signature​
+## Signature​
+
+``` 
 signature = encodeHexString(
  HmacSHA256(
    appsecret,
@@ -26,9 +29,14 @@ signature = encodeHexString(
    body
  )
 )
+```
+
 Where uri is the path, multiple key-value pair in query and header should be sorted alphabetically by key, comma separated, example:
 
-Go
+### Go
+
+```
+
 appid := "000000000000000000000000000000000000000000000000000000000000000001" // the app id
 
 appSecret := "000000000000000000000000000000000000000000000000000000000000000002" // the app secret
@@ -65,7 +73,11 @@ func ComputeSig(msgForSig, appSecret string) string {
    return hex.EncodeToString(h.Sum(nil))
 }
 
-Java
+```
+
+### Java
+
+```
 // you should provide appId, appSecret and address
 String appId = "000000000000000000000000000000000000000000000000000000000000000001";
 String appSecret = "000000000000000000000000000000000000000000000000000000000000000002";
@@ -89,7 +101,11 @@ StringEntity requestEntity = new StringEntity(
    ContentType.APPLICATION_JSON
 );
 
-Javascript
+```
+
+### Javascript
+
+```
 const HmacSHA256 = require('crypto-js/hmac-sha256')
 const EncodeHex = require('crypto-js/enc-hex')
 
@@ -106,7 +122,12 @@ const data = [appId, timeStamp, 'nonce', method, url, body].join(';')
 const hash = HmacSHA256(data, appSecret)
 const hashInHex = EncodeHex.stringify(hash)
 
-Python
+```
+
+### Python
+
+```
+
 import time
 import hmac
 import hashlib
@@ -124,23 +145,22 @@ data = ';'.join([appId, timeStamp, 'nonce', method, url, body])
 
 hashInHex = hmac.new(bytes(appSecret , 'utf-8'), msg = bytes(data , 'utf-8'), digestmod = hashlib.sha256).hexdigest()
 
-Original request
-Key	Value
-appid	13cc90dc5ffa4032acb3
-appsecret	cd0ec4b1ca934b188996034541d7e810
-url	/security-api/public/app/v1/detect
-query	empty
-method	POST
-body	
-{ 
- "chain_id":"56",
- "address":"0x0000000000000000000000000000000000000003"
-}
+```
 
-timestamp	1657246234465
-nonce	791f398e93f14b3e98f916703f777f44
+## Original request
+| Key      | 	Value |
+| ----------- | 	----------- |
+|appid|	13cc90dc5ffa4032acb3|
+|appsecret|	cd0ec4b1ca934b188996034541d7e810|
+|url|	/security-api/public/app/v1/detect|
+|query|	empty|
+|method|	POST|
+|body|	{ <br />"chain_id":"56", <br />"address":"0x0000000000000000000000000000000000000003"<br /> }  |
+|timestamp|	1657246234465|
+|nonce|	791f398e93f14b3e98f916703f777f44|
 then：
 
+```
 signature = encodeHexString(HmacSHA256(
  cd0ec4b1ca934b188996034541d7e810,
  ‘13cc90dc5ffa4032acb3;
@@ -153,14 +173,15 @@ signature = encodeHexString(HmacSHA256(
    "address":"0x0000000000000000000000000000000000000003"
  }’
 ))
-
+```
 
 Note: The query can be empty. When the query is empty, you do not need to fill in the empty query and “;” in the concatenated string, but directly omit the query and “;”
 
-Final header​
-Header	Description
-Content-Type	application/json;charset=UTF-8
-X-Signature-appid	13cc90dc5ffa4032acb3
-X-Signature-timestamp	1657246234465
-X-Signature-nonce	791f398e93f14b3e98f916703f777f44
-X-Signature-signature	bece3956c35911e598635345c0f428122e5423efc9fac68edf9dd377163a9897
+## Final header​
+| Header      | 	Description |
+| ----------- | 	----------- |
+|Content-Type|	application/json;charset=UTF-8|
+|X-Signature-appid|	13cc90dc5ffa4032acb3|
+|X-Signature-timestamp|	1657246234465|
+|X-Signature-nonce|	791f398e93f14b3e98f916703f777f44|
+|X-Signature-signature|	bece3956c35911e598635345c0f428122e5423efc9fac68edf9dd377163a9897|

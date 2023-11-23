@@ -19,12 +19,12 @@ In this tutorial, we will provide a step-by-step guide on how to use the HashDit
     - Provide a pre-request script.
     - Set the required header(s).
 
-   ![](../static/img/tutorial-1.png)
+![](../static/img//tutorial-1.png)
 
 4. **Pre-Request Script**: In this script, you will specify the appid, appsecret, uuid, set the body of the request, set the signature, set the headers, and set the global variables.
    - In lines 1 to 8, we set values for different variables, these will be then used to set the headers of the request as shown below.
 
-      ![](../static/img/tutorial-2.png)
+![](../static/img/tutorial-2.png)
 
    - For server authorization, whenever the client calls the server’s restful interface, it is required on the client side to set the following headers as described in the table below to be able to pass the server authorization. 
    
@@ -39,7 +39,8 @@ In this tutorial, we will provide a step-by-step guide on how to use the HashDit
 5. **Setting Body of the Request:**
    - After specifying the pre-request and headers, set the body of your request. To know about the different input fields, parameters, and output details, you can refer to the official documentation.   
    - In this tutorial, we have used the raw format to set the body of our request, as shown in the figure below. However, it is up to you to choose whatever of the supported types you wish to use. As input parameters for the API, we have passed the address and chain_id key-value pairs.
-    ![](../static/img/tutorial-3.png)
+
+![](../static/img/tutorial-3.png)
    - In the body of the message, if you are wanting to scan a smart contract for a dapp for risk analysis, the passed parameters are as described below
 
 | Name     | Required | Description                                                     | Type   | Example                                                                                                                                                                                                                               |
@@ -50,7 +51,8 @@ In this tutorial, we will provide a step-by-step guide on how to use the HashDit
 6. **Send Request:** click on the Send button to send your request.
 7. **Response:**
    - If everything goes well, the response received for the contract address (0x312bc7eaaf93f1c60dc5afc115fccde161055fb0), the response will be as shown in the figure below.
-   ![](../static/img/tutorial-4.png)
+
+![](../static/img/tutorial-4.png)
    - The different parameters in the response are as explained in the table below
 
 | Name             | Nullable | Description                                                                                                 | Type   | Example                                                                                                                                                                                                                                                                                                                                                                                                                                               |
