@@ -1471,26 +1471,13 @@ date,address,type,WAT,Confidence,risk_level,risk_description
 2023-12-20,0x572c9ab47977d7d909572f3b8bce076a858a8763,Trending_Risky_Tokens,0,50,4,"[{""name"":""red_alarm"",""value"":""The address was marked as red alarm on: https://dappbay.bnbchain.org/risk-scanner/0x572c9ab47977d7d909572f3b8bce076a858a8763""}]"
 2023-12-20,0x7a0fc0f70a3028e4f6d6f61d5f0dfbc2aa300e5e,Trending_Risky_Tokens,0,60,4,"[{""name"":""centralization"",""value"":""The contract contains some privileged role function which could mean some centralization risk, please be careful of rugpull risk.""},{""name"":""scam"",""value"":""The contract has some scam features such as Ponzi, Honeypot or fake token, please be careful of scam risk.""}]"
 2023-12-20,0x0eb455a49bf180ded02732b9aa52a3b7c1146a8d,Trending_Risky_Tokens,0,50,4,"[{""name"":""red_alarm"",""value"":""The address was marked as red alarm on: https://dappbay.bnbchain.org/risk-scanner/0x0eb455a49bf180ded02732b9aa52a3b7c1146a8d""}]"
-2023-12-20,0xab223af9dcdc6b961def8e802452b80a93c02196,Weekly_Trending_Risky,,70,4,"Possible ponzi detected (3)
-  stake(address,uint256): Has referral handling"
-2023-12-20,0xa7c043cdd1b71f68d6defaec5f3a5703c342230d,Weekly_Trending_Risky,,70,4,"Possible ponzi detected (3)
-  buy(address,uint256,bool): Has referral handling"
-2023-12-20,0xd2cf535ab4f480cfacded78f3bbd6e1305d14090,Weekly_Trending_Risky,,70,4,"Possible ponzi detected (3)
-  addDoubloons(address,uint256): Has referral handling"
-2023-12-20,0xa7a2e77f588808710adf9e014c5bcb01a7723647,Weekly_Trending_Risky,,70,4,"Possible ponzi detected (3)
-  invest(address,uint8,uint256): Has referral handling"
-2023-12-20,0x65419508655c8ec09a3c35d37a8175a4940d59c0,Weekly_Trending_Risky,,70,4,"Possible ponzi detected (3)
-  buyApes(address,uint256): Has referral handling"
-2023-12-20,0x9df4e8e1e12c95a768965af4329f5dfc4867d0c0,Weekly_Trending_Risky,,70,4,"Possible ponzi detected (6)
-  depositUSDT(uint256): Has referral handling
-  depositEAC(uint256): Has referral handling"
-2023-12-20,0x49ae9999284a5e4aaf89aa060bd0fbb62132c297,Weekly_Trending_Risky,,70,4,"Possible ponzi detected (3)
-  deposit(uint256): Has referral handling"
-2023-12-20,0x835f373d793ed3333dc8efa68d4a5c447462be0e,Weekly_Trending_Risky,,70,4,"Possible ponzi detected (3)
-  depositFunds(uint256,address): Has referral handling"
-2023-12-20,0x0aa18a17b5a66059c01fa44ab04dd2629bbd9275,Weekly_Trending_Risky,,70,4,"Possible ponzi detected (3)
-  stake(address,uint256,address): Has referral handling"
-2023-12-20,0x73a4b1718596b958640334fc0dd447c59ca8c97d,Weekly_Trending_Risky,,70,4,"Possible ponzi detected (3)
-  invest(address,uint256): Has referral handling"
-2023-12-20,0x6b503b0bfc071ede94ad4e553132ee9287aa79cb,Weekly_Trending_Risky,,70,4,"Possible ponzi detected (3)
-  invest(uint256,address): Has referral handling"
+2023-12-20,0x6fac01c4f9fd8846a37952ccaab8d57e43addd93,Weekly_Trending_Risky,,70,4,"Ponzi Schemes"
+2023-12-20,0x7bf2e431a83ee4a5166ac59501ae18abfe6892fc,Weekly_Trending_Risky,,70,4,"Ponzi Schemes"
+2023-12-20,0x58d71acf0a1d56542f936dee8a577f83eae0c7f8,Weekly_Trending_Risky,,70,4,"Backdoor Risks"
+2023-12-20,0xd49c9ff836f278294fb5cbf1564fc7b66b2e1e06,Weekly_Trending_Risky,,70,4,"Backdoor Risks"
+2023-12-20,0x67009eb16ff64d06b4f782b3c552b924b1d1bb93,Weekly_Trending_Risky,,70,4,"Backdoor Risks"
+2023-12-20,0x454d67264a80e06b455ba87f46cdddf8d58906cf,Weekly_Trending_Risky,,70,4,"Backdoor Risks"
+2023-12-20,0x86bc302c9183d556154775cfff84d352ca83437e,Weekly_Trending_Risky,,70,4,"Backdoor Risks"
+2023-12-20,0xf9eb0ffa2d205f33cf2c2d8510f4d66c191e6860,Weekly_Trending_Risky,,70,4,"Backdoor Risks"
+2023-12-20,0x0aa18a17b5a66059c01fa44ab04dd2629bbd9275,Weekly_Trending_Risky,,70,4,"Backdoor Risks"
+2023-12-20,0x6a697631503063e33db269b953a2d74e01aca109,Weekly_Trending_Risky,,70,4,"Honeypot Risks"
