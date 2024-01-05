@@ -22,7 +22,7 @@ Since blockchain assets are often not compatible with one another, bridges creat
 'GameFi' refers to the financialisation of video gaming. It is characterized by its 'play-to-earn' (P2E) business model, and mainly refers to blockchain games that offer tokenized incentives to players while enabling frameworks for player-as-owner rather than the standard player-as-consumer.
 
 
-## DeSoc 
+## DeSoc (Decentralized Society)
 
 DeSoc or Decentralized society is an umbrella term for traditional activities that will eventually get decentralized in the near future. These include but are not limited to: 
 
@@ -57,7 +57,7 @@ Oracles are complex computerized systems that connect data from the outside worl
 A Cryptocurrency Wallet is an application that functions as a wallet for your cryptocurrencies. It is called a wallet because it is used similarly to a wallet you put cash and cards in. Instead of holding these physical items, it stores the private keys you use to sign for your cryptocurrency transactions and provides the interface that lets you access and manage your cryptocurrencies.
 
 
-## NFT
+## NFT (Non-Fungible Token)
 
 An NFT project is a venture centered around the creation, distribution, and/or trading of Non-Fungible Tokens (or NFTs). NFTs are unique digital assets stored on a blockchain that represent ownership or proof of authenticity of goods, items, or content. They've been used for digital art, virtual real estate, music, and more. An NFT project could be anything from the launch of a new digital art collection, to the development of a game that uses NFTs, or even the creation of a marketplace for trading NFTs.
 
@@ -69,7 +69,7 @@ Wallet Drainers, represent a category of fraudulent mechanisms specifically desi
 
 An Individual typically refers to an isolated digital wallet or account that has been jeopardized as a result of a security breach. Predominantly, these instances are outcomes of fraudulent cases where unsuspecting parties are deceived into transferring their digital assets to the perpetrator.
 
-## MEV
+## MEV (Miner Extractable Value)
 
 MEV stands for "Miner Extractable Value." This is a measure of the profit a miner (or validator in proof-of-stake systems) can make through their ability to arbitrarily include, exclude, or re-order transactions within the blocks they produce.
 
