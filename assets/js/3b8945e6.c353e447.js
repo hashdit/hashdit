@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7235],{1260:function(a){a.exports=JSON.parse('{"label":"Jan","permalink":"/hashdit/blog/tags/jan","allTagsPath":"/hashdit/blog/tags","count":1}')}}]);
