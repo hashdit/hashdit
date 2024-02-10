@@ -1,0 +1,2 @@
+title,description,ref_link,priority,item,item_type,chain_id,addresses,timestamp
+Risky Warning,Detected high gas transactions that could suggest possible hack risks,https://explorer.phalcon.xyz/tx/bsc/0xd9189b237bb2f41b20fa1297b096b978062e7cd2c654aee32c6279ed7d2a73e7,1,0xd9189b237bb2f41b20fa1297b096b978062e7cd2c654aee32c6279ed7d2a73e7,tx_hash,56,0xcecce97529effc360f68b3f26eef4ad74ebf5705;0xb873f16c3f83feee9037c96d3345a753f80e04a7,1707523414
