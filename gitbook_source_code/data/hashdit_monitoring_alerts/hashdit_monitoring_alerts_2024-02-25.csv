@@ -1,0 +1,5 @@
+title,description,ref_link,priority,item,item_type,chain_id,addresses,timestamp
+Risky Warning,"Detected a significant change in price, which could indicate a significant event",https://coinmarketcap.com/currencies/mdex/ ,1,mdex,slug,56,,1708822115
+Risky Warning,"Detected a significant change in price, which could indicate a significant event",https://coinmarketcap.com/currencies/mdex/ ,1,mdex,slug,56,,1708822115
+Risky Warning,Detected a potential security alert from a Top Project:thetnetwork on Twitter,https://twitter.com/thetnetwork/status/1761553680128458847 ,2,1761553680128458847_1708822110,metadata,,,1708822110
+Risky Warning,Detected a rugpull on a token (from DEX),https://explorer.phalcon.xyz/tx/bsc/0xc84b73c16790276d45200bbf8e7857e6943a18286151f45954d6d7d95dea3c91 ,2,0xc84b73c16790276d45200bbf8e7857e6943a18286151f45954d6d7d95dea3c91,tx_hash,56,0x190b77d6fe82d476250a5529ac7c3eedd9c559ae;0x10ed43c718714eb63d5aa57b78b54704e256024e;0x9ad5eabe92e56bab337b93a2cd52159b871fcec5,1708820767
