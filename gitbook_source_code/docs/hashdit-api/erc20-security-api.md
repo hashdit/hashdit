@@ -7,7 +7,6 @@ sidebar_position: 6
 ## Endpoint
 ``` 
 https://api.hashdit.io/security-api/public/chain/v1/detect/address
-
 ```
 
 ## Header

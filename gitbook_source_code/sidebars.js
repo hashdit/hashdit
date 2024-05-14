@@ -36,6 +36,7 @@ const sidebars = {
                 "hashdit-api/dapp-url-analysis",
                 "hashdit-api/transaction-analysis-api",
                 "hashdit-api/signature-analysis-api",
+                "hashdit-api/erc20-security-api",
             ],
         },
         {
