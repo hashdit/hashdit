@@ -33,7 +33,7 @@ https://api.hashdit.io/security-api/public/chain/v1/detect/address
 |data.*request_id*|	No|	String|	Unique request id|
 |data.*has_result*|	No|	Boolean|	Whether there is already a definite result, if False, it needs to be requested in [polling_interval] million seconds|
 |data.*polling_interval*|	Yes|	Long|	Recommended waiting time(million seconds) to the next repeat request. seconds|
-|data.*result*|	Yes|	String| { <br /> “anti_whale”: { <br />  “is_anti_whale”: “1”, <br /> “anti_whale_modifiable”: “1”, <br /> }, <br /> “balance_external_call”: “0”, <br /> ... ... <br /> }|
+|data.*result*|	Yes|	JSONObject| { <br /> “anti_whale”: { <br />  “is_anti_whale”: “1”, <br /> “anti_whale_modifiable”: “1”, <br /> }, <br /> “balance_external_call”: “0”, <br /> ... ... <br /> }|
 
 
 ## Result
