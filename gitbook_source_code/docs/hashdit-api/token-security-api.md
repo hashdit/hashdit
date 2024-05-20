@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# ERC20 Security API
+# Token Security API
 
 ## Endpoint
 ``` 
@@ -51,8 +51,8 @@ The result will comprise of a **dict** of object, the object contain the followi
 |dev-token-percent|	string|	Deployer's token balance percent for the target token|
 |dex-info|	list|	Information on decentralized exchange listings|
 |hidden-owner|	string|	When a hidden owner exists, it is risky since the contract’s ownership has not been abandoned|
-|holders|	list|	ERC20 token holders information|
-|holders-count|	string|	ERC20 token holders count|
+|holders|	list| token holders information|
+|holders-count|	string| token holders count|
 |lp-holders|	list|	Dex LP token holders information|
 |lp-holders-count|	string|	Dex LP token holders count|
 |lp-total-supply|	string|	LP token's total supply|
