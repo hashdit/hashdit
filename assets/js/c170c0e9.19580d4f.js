@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[4703],{38175:s=>{s.exports=JSON.parse('{"label":"mpc","permalink":"/hashdit/blog/tags/mpc","allTagsPath":"/hashdit/blog/tags","count":1}')}}]);

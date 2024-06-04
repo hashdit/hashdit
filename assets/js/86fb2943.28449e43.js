@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9655],{40781:s=>{s.exports=JSON.parse('{"label":"Optimism","permalink":"/hashdit/blog/tags/optimism","allTagsPath":"/hashdit/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6285],{34865:s=>{s.exports=JSON.parse('{"label":"Scam","permalink":"/hashdit/blog/tags/scam","allTagsPath":"/hashdit/blog/tags","count":2}')}}]);

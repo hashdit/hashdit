@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6193],{74486:a=>{a.exports=JSON.parse('{"label":"Education","permalink":"/hashdit/blog/tags/education","allTagsPath":"/hashdit/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8934],{11437:s=>{s.exports=JSON.parse('{"label":"smart wallets","permalink":"/hashdit/blog/tags/smart-wallets","allTagsPath":"/hashdit/blog/tags","count":2}')}}]);

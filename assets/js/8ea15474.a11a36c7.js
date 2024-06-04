@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5245],{22690:s=>{s.exports=JSON.parse('{"label":"BASE","permalink":"/hashdit/blog/tags/base","allTagsPath":"/hashdit/blog/tags","count":1}')}}]);

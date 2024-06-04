@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9757],{6063:e=>{e.exports=JSON.parse('{"label":"end-of-year-report","permalink":"/hashdit/blog/tags/end-of-year-report","allTagsPath":"/hashdit/blog/tags","count":1}')}}]);

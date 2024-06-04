@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2586],{75936:s=>{s.exports=JSON.parse('{"label":"ponzi","permalink":"/hashdit/blog/tags/ponzi","allTagsPath":"/hashdit/blog/tags","count":1}')}}]);
