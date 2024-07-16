@@ -19,6 +19,30 @@ const sidebars = {
     // But you can create a sidebar manually
     docs: [
         "intro",
+        {
+            type: "category",
+            label: "HashDit Snap",
+            link: {
+                type: "generated-index",
+            },
+            collapsed: true,
+            items: [
+                "hashdit-snap/hashdit-intro",
+                {
+                    type: "category",
+                    label: "Features",
+                    link: {
+                        type: "generated-index",
+                    },
+                    collapsed: true,
+                    items: [
+                        "hashdit-snap/hashdit-feature-address-poisoning",
+                        "hashdit-snap/hashdit-feature-transaction-screening",
+                        "hashdit-snap/hashdit-feature-url-screening",
+                    ],
+                },
+            ],
+        },
         "hashdit-extension",
         "wallet-integration",
         "tutorial",
