@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Welcome To HashDit Snap
+# 👋 Welcome To HashDit Snap
 HashDit Snaps protects your funds with real-time risk warnings and detailed insights on smart contracts, transactions, and URLs for Binance Smart Chain and Ethereum.
 
 ## What is HashDit Snap?
