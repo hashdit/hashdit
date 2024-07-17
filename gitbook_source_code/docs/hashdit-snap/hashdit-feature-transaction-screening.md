@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Transaction And Destination Screening
+# 🔍 Transaction And Destination Screening
 Each transaction will generate either a Transaction Screening insight or a Destination Screening insight.
 ***
 ## Transaction Screening
@@ -32,6 +32,10 @@ style={{
     src={require('./images/2.webp').default}
     alt="Transaction Screening"
     width="513" height="560"
+    style={{
+      borderRadius: "7px",
+      border: "1px solid grey",
+    }}
     />
 </div>
 <div      
@@ -75,6 +79,10 @@ The **Destination Screening** insight scans a transaction's destination address 
     src={require('./images/3.webp').default}
     alt="Destination Screening"
     width="513" height="560"
+    style={{
+      borderRadius: "7px",
+      border: "1px solid grey",
+    }}
     />
 </div>
 <div      
