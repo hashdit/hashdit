@@ -19,6 +19,55 @@ const sidebars = {
     // But you can create a sidebar manually
     docs: [
         "intro",
+        {
+            type: "category",
+            label: "HashDit Snap",
+            link: {
+                type: "generated-index",
+            },
+            collapsed: true,
+            items: [
+                "hashdit-snap/hashdit-intro",
+                {
+                    type: "category",
+                    label: "Features",
+                    link: {
+                        type: "generated-index",
+                    },
+                    collapsed: true,
+                    items: [
+                        "hashdit-snap/hashdit-feature-address-poisoning",
+                        "hashdit-snap/hashdit-feature-transaction-screening",
+                        "hashdit-snap/hashdit-feature-url-screening",
+                        "hashdit-snap/hashdit-feature-function-call-info",
+                    ],
+                },
+                {
+                    type: "category",
+                    label: "Usage",
+                    link: {
+                        type: "generated-index",
+                    },
+                    collapsed: true,
+                    items: [
+                       "hashdit-snap/hashdit-usage-install-uninstall",
+                       "hashdit-snap/hashdit-usage-how-to-use",
+                    ],
+                },
+                {
+                    type: "category",
+                    label: "Information",
+                    link: {
+                        type: "generated-index",
+                    },
+                    collapsed: true,
+                    items: [
+                       "hashdit-snap/hashdit-info-faq",
+                       "hashdit-snap/hashdit-info-change-log",
+                    ],
+                },
+            ],
+        },
         "hashdit-extension",
         "wallet-integration",
         "tutorial",
