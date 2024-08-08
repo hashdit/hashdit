@@ -69,6 +69,7 @@ const sidebars = {
             ],
         },
         "hashdit-extension",
+        "hashdit-api-integration",
         "wallet-integration",
         "tutorial",
         "hashdit-api-authorization",

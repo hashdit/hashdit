@@ -19,4 +19,6 @@ HashDit's API integration extends its influence to numerous prominent applicatio
 
 **TrustWallet**: HashDit's API takes center stage within TrustWallet, an industry vanguard Web3 Wallet. Serving as a protective layer within the user experience, HashDit's threat intelligence suite preempts elevated risks by promptly notifying users before they connect to the dApp or execute transactions. This proactive approach ensures users operate with heightened vigilance, fortifying their engagement within the dynamic DeFi landscape.
 
+*** In 2023, HashDit API continually safeguarded assets on TrustWallet and prevented 584k of 630k risky BSC transactions, that's a 93% coverage, preventing users from transferring nearly $169m to scammers! ***
+
 **BSCscan**: A prime example of HashDit's impact unfolds through its collaboration with blockchain explorers, most notably BSCscan. Integrating risk alerts within the explorer's interface bolsters user prudence and caution. Users are empowered to tread warily when engaging with projects or addresses displaying suspicious or high-risk attributes. This measured approach fosters an environment of cautious exploration, preventing undue exposure to potential risks.
