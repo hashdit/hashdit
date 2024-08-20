@@ -34,10 +34,8 @@ https://api.hashdit.io/security-api/public/chain/v1/detect/address
 |data.*has_result*|	No|	Boolean|	Whether there is already a definite result, if False, it needs to be requested in [polling_interval] million seconds|
 |data.*polling_interval*|	Yes|	Long|	Recommended waiting time(million seconds) to the next repeat request. seconds|
 |data.*result*|	Yes|	String| { <br /> "proxy": { <br />  "proxy_implementation_verified": “”, <br /> "is_proxy": “0” },  <br /> "verified":  “1”  <br />  }|
-|data.*risk_category*|	Yes|	String| "[\"CONTRACT_SECURITY\"]"
-|
-|data.*risk_code*|	Yes|	String| "[\"CONTRACT_UNVERIFIED\"]"
-|
+|data.*risk_category*|	Yes|	String| "[\"CONTRACT_SECURITY\"]"|
+|data.*risk_code*|	Yes|	String| "[\"CONTRACT_UNVERIFIED\"]"|
 |data.*trust_score*|	Yes|	Integer| 60|
 
 ## Result
