@@ -33,6 +33,7 @@ https://api.hashdit.io/security-api/public/chain/v1/detect/address
 |data.*request_id*|	No|	String|	Unique request id|
 |data.*has_result*|	No|	Boolean|	Whether there is already a definite result, if False, it needs to be requested in [polling_interval] million seconds|
 |data.*polling_interval*|	Yes|	Long|	Recommended waiting time(million seconds) to the next repeat request. seconds|
+|data.*risk_level*|	Yes|	Integer| -1: Invalid <br /> 0: Very Low Risk <br /> 1: Some Risk <br /> 2: Low Risk <br /> 3: Medium Risk <br /> 4: High Risk <br /> 5: Significant Risk|
 |data.*result*|	Yes|	String| { <br /> "proxy": { <br />  "proxy_implementation_verified": “”, <br /> "is_proxy": “0” },  <br /> "verified":  “1”  <br />  }|
 |data.*risk_category*|	Yes|	String| "[\"CONTRACT_SECURITY\"]"|
 |data.*risk_code*|	Yes|	String| "[\"CONTRACT_UNVERIFIED\"]"|
