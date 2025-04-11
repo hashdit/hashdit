@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6517],{21475:e=>{e.exports=JSON.parse('{"label":"quarter-one-report","permalink":"/hashdit/blog/tags/quarter-one-report","allTagsPath":"/hashdit/blog/tags","count":1}')}}]);
