@@ -64,12 +64,7 @@ const config = {
           src: 'img/favicon.ico',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Documentation',
-          },
+
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -81,23 +76,7 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Introduction',
-                to: '/docs/intro',
-              },
-              {
-                label: 'HashDit API',
-                to: '/docs/diting-api/api-access',
-              },
-              {
-                label: 'Risk Levels',
-                to: '/docs/risk-level-description',
-              },
-            ],
-          },
+       
           {
             title: 'Community',
             items: [
