@@ -18,7 +18,6 @@ const sidebars = {
 
     // But you can create a sidebar manually
     docs: [
-        "intro",
         {
             type: "category",
             label: "HashDit Snap",

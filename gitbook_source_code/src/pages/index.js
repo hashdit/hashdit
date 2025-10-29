@@ -42,7 +42,7 @@ export default function Home() {
       <main>
         <HomepageFeatures />
       </main>
-      <Redirect to='/hashdit/docs/intro' />
+      <Redirect to='/hashdit/blog' />
     </Layout>
 
 

@@ -33,13 +33,13 @@ const config = {
       "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        // docs: {
+        //   sidebarPath: require.resolve("./sidebars.js"),
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   // editUrl:
+        //   // 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // },
         // blog: false,  // Uncomment this line to disable blog
         blog: {
           showReadingTime: true,
@@ -71,12 +71,7 @@ const config = {
           src: "img/favicon.ico",
         },
         items: [
-          {
-            type: "doc",
-            docId: "intro",
-            position: "left",
-            label: "Documentation",
-          },
+        
           { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/hashdit/hashdit/tree/main",
@@ -88,19 +83,7 @@ const config = {
       footer: {
         style: "dark",
         links: [
-          {
-            title: "Introduction",
-            items: [
-              {
-                label: "Introduction",
-                to: "/docs/intro",
-              },
-              {
-                label: "API Documentations",
-                to: "/docs/hashdit-api/api-access",
-              },
-            ],
-          },
+         
           {
             title: "Community",
             items: [
